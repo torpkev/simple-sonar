@@ -1,0 +1,8 @@
+name: Sonar
+main: work.torp.sonar.Main
+version: 1.0
+api-version: 1.13
+commands:
+   sonar:
+      description: Performs a sonar ping
+      usage: /sonar
